@@ -12,7 +12,7 @@ comments: true
 
 ## 关于我
 
-暂无~~
+深圳打工仔一枚
 
 ## 联系我
 
@@ -21,7 +21,7 @@ comments: true
 
 ## 关于本站
 
-**感谢浩阳同学的博客模板！若您想使用这个 jekyll 博客主题，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
+本站基于[浩阳同学](https://github.com/Gaohaoyang/gaohaoyang.github.io)的主题和模板搭建,感谢~
 
 ## 友情链接
 
