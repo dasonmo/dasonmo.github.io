@@ -4,6 +4,7 @@ title:  "ElasticSearch 用于简单搜索"
 date:   2019-01-31
 categories: elasticsearch
 tags: elasticsearch LTR
+comments: true
 ---
 
 * content
