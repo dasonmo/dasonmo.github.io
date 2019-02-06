@@ -50,11 +50,12 @@ comments: true
 1. 索引介绍
 索引（index）是将若干个分区进行分组的逻辑空间，也就是文档存储的地址。
 es中使用index API使数据可以被存储并检索。以下为索引的meta字段。
+
     | meta data | 解释  | 
     | --- | --- |
-    index | 文档存储的地方 |  
-    type | 文档代表的对象的类 |  
-    id | 文档的唯一标识 | 
+    | index | 文档存储的地方 |  
+    | type | 文档代表的对象的类 |  
+    | id | 文档的唯一标识 | 
 
 2. 查询所有索引的情况
     curl 'localhost:9200/_cat/indices?v' 
