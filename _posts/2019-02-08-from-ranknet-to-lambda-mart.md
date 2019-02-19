@@ -11,7 +11,7 @@ mathjax: true
 * content
 {:toc}
 
-搜索排序经典算法剖析
+LTR(Learning To Rank)是有监督的排序学习方法，可应用于信息检索，问答系统，推荐系统商品/用户排序，机器翻译结果排序等诸多领域。RankNet、LambdaMart等经典排序方法的理论成熟，应用广泛，值得深入理解和分析
 
 
 
