@@ -2,7 +2,7 @@
 layout: post
 title: "The Sense of Cross Entropy"
 date: 2019-02-11
-categories: Machine Learning
+categories: Machine-Learning
 tags: Cross-Entropy
 comments: true
 mathjax: true
