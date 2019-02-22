@@ -58,5 +58,6 @@ paginate: 6
 port: 4001
 
 # sitemap
-gems:
+url: "http://dasonmo.cn"
+plugins:
   - jekyll-sitemap
