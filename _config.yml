@@ -52,12 +52,13 @@ tag_dir: tag/
 # excerpt
 excerpt_separator: "\n\n\n\n"
 
-# paginate
-plugins: [jekyll-paginate]
-paginate: 6
-port: 4001
-
 # sitemap
 url: "http://dasonmo.cn"
 plugins:
   - jekyll-sitemap
+  - jekyll-paginate
+
+# paginate
+paginate: 6
+port: 4001
+
